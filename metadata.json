@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "A comprehensive scientific calculator that features advanced mathematical computations, history logging, and specialized converters for measurements, age, weight, and currency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
